@@ -12,8 +12,6 @@ g = 7
 v= 3
 m = g - v
 print(m)
-sdgfsfgdgfsdg
-sdfgsdfg
-sdfgsdfgsd
+print("Антон лучше Димы")
 #Катя 2
 print('я карта')
