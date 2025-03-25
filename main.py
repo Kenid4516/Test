@@ -7,9 +7,11 @@ print("Гей")
 #Катя
 print("Ky")
 #Егор
+print("123123")
 gfgfgfgfgfgfg
 s = "Егор"
 n = "Дима"
 m = s + n
 print(m)
 #Rfn
+
