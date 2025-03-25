@@ -4,6 +4,7 @@ s = 6
 b = a*s
 print(b)
 #Егор
+gfgfgfgfgfgfg
 s = "Егор"
 n = "Дима"
 m = s + n
