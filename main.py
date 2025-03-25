@@ -7,3 +7,8 @@ f = 5
 d = 5
 e = f * d
 print(e)
+#Егоп
+g = 7
+v= 3
+m = g - v
+print(m)
