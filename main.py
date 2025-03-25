@@ -7,6 +7,7 @@ print("Гей")
 #Катя
 print("Ky")
 #Егор
+gfgfgfgfgfgfg
 s = "Егор"
 n = "Дима"
 m = s + n
