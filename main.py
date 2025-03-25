@@ -12,5 +12,8 @@ g = 7
 v= 3
 m = g - v
 print(m)
+sdgfsfgdgfsdg
+sdfgsdfg
+sdfgsdfgsd
 #Катя 2
 print('я карта')
